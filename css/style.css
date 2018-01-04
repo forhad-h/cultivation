@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+}
+body {
+	margin-top: 50px;
+}
+.section {
+	background: #eee;
+	padding: 20px;
+}
+.section.all-record {
+	background: #fff;
+}
+.section h2 {
+	margin-top: 0;
+	margin-bottom: 20px;
+	color: #888;
+}
+.section label {
+	color: #666;
+}
+td .glyphicon {
+	margin-left: 10px;
+}
+#aidate, #tidate, #aedate, #tedate, #cidate, #cedate {
+	border: 1px solid #ddd;
+	padding: 0 15px;
+	margin-right: 5px;
+	width: 110px;
+}
+#cidate, #cedate {
+	border-color: #ccc;
+}
+.search-btn form {
+	margin-bottom: 10px;
+}
